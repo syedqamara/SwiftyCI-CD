@@ -1,4 +1,4 @@
-<img src="Public/Swifty-CI-CD.png" alt="drawing" width="200" align="center"/>
+<img src="Public/Swifty-CI-CD.png" alt="drawing" align="center"/>
 
 # SwiftyCI-CD
 SwiftyCI-CD is a Server Side Swift Web Application for Custom CI/CD

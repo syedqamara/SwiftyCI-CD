@@ -19,6 +19,8 @@ Now go to your browser and type `127.0.0.1:8080`.
 ## Features
 
 **User Registration/Authentication.**
+
+
 **Application.**
   - Name
   - Git URL
@@ -89,5 +91,5 @@ This app is using `AWS Bucket` to store ipa. How to connect any AWS with our App
 # Issues
 Please create issues on issues section if you stuck somewhere. We will try our best to give response on your issues.
 
-# Request
+# Important!
 This application is not completely stable yet. We have made it public as we request Open Source Community to help us make this project more stable so we could help all developers to run & distribute any applications from your Mobile & Web apps. As this process requires extensive use to `Bash Scripting` so we request Bash Developers to help us in making our scripts more stable.

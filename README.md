@@ -56,11 +56,11 @@ First add your credential in bellow credential config
 ```
 enum ENTBuildsDB: String {
     typealias RawValue = String
-    case db_name = "d29gg198bn81tt"
-    case hostname = "ec2-52-71-161-140.compute-1.amazonaws.com"
-    case username = "uopczrtspxvnfp"
-    case password = "0338f4911a02d17aaef20c4abe84e3cb026119a1b2b8b94de2a37266fa411ad8"
-    case db_url = "postgres://toqcfrtepxqnfm:fghjhgfdfghjgfgfyuhgfdjhdfjhgfjhghjg@ec2-52-71-161-140.compute-1.amazonaws.com:5432/56787657"
+    case db_name = "56787657"
+    case hostname = "ec5-35-69-318-140.compute-1.amazonaws.com"
+    case username = "toqcfrtepxqnfm"
+    case password = "fghjhgfdfghjgfgfyuhgfdjhdfjhgfjhghjg"
+    case db_url = "postgres://toqcfrtepxqnfm:fghjhgfdfghjgfgfyuhgfdjhdfjhgfjhghjg@ec5-35-69-318-140.compute-1.amazonaws.com:5432/56787657"
  }
 ```
 Then use above credentials either Local/Remote DB.

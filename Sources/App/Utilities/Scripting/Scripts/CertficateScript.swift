@@ -19,3 +19,4 @@ struct CertficateScript: Script {
     }
     
 }
+//security import ./ENTERTAINER.p12 -P 1111 -A
